@@ -154,7 +154,7 @@ rerank_score >= KB_POSTGRES_RERANK_THRESHOLD    # 重排分数阈值
 
 ```bash
 # 克隆项目
-git clone https://github.com/skygazer42/ChefBot.git
+git clone https://github.com/YurinW/ChefBot.git
 cd ChefBot
 
 # 配置环境变量
